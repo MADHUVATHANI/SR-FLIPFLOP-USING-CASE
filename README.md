@@ -75,7 +75,7 @@ endmodule
 
 
 ## TIMING DIGRAMS FOR FLIP FLOPS:
-![324682052-2bc6fa5d-a36a-409f-82a1-675b8cd79036](https://github.com/MADHUVATHANI/SR-FLIPFLOP-USING-CASE/assets/149986415/13fdb284-d359-429c-9711-558f662abac7)
+![323287725-78e77503-f09f-4696-8e28-41ec277e5350](https://github.com/MADHUVATHANI/SR-FLIPFLOP-USING-CASE/assets/149986415/e4377eac-5212-4c7a-a46a-f957f37fefa9)
 
 ## RESULTS:
 Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
